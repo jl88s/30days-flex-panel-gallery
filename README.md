@@ -1,0 +1,3 @@
+#30 Days of JavaScript - Flex Panels Image Gallery ###Thursday June, 25, 2020 - 11:46 AM
+
+Super fun exercise! This project helped me learn quick transitioning techniques that I can use in the future. It only contains a few Javascript code, but I feel like where it gets tricky is learning how to pick the correct methods to use on the html classes and tags. With more practice, I can see the endless possiblities that I can create to make websites more dynamic and entertaining. 
